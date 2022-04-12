@@ -129,5 +129,4 @@ dmypy.json
 .pyre/
 
 # my_files
-.xml
 .idea
